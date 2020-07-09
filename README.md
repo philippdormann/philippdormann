@@ -1,4 +1,5 @@
 ### Hi there 👋
+> CEO, founder and brand owner of @KonfiApp . Passionate open source developer whenever I have some spare time
 
 <!--
 **philippd1/philippd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
