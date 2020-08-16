@@ -1,19 +1,19 @@
-### Hi there 👋
-> CEO, founder and brand owner of @KonfiApp . Passionate open source developer whenever I have some spare time
+<h1 align='center'>
+  Hi there 👋 I'm Philipp 👨‍💻
+</h1>
+
+<p align='center'>
+  CEO, founder and brand owner of <a href="https://konfiapp.de/?utm_source=github&utm_medium=profilereadme&utm_campaign=github_profilereadme" target="_blank">@KonfiApp</a>.<br>Passionate open source developer whenever I have some spare time
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/philipp-dormann/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://gitlab.com/philippd1">
+    <img src="https://img.shields.io/badge/gitlab-philippd1-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" />
+  </a>&nbsp;&nbsp;
+ 
+</p>
 
 ![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philippd1)
-
-<!--
-**philippd1/philippd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
