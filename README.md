@@ -16,4 +16,4 @@
  
 </p>
 
-![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philippd1)
+![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philippd1&hide_border=true)
