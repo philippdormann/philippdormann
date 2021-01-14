@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/philipp-dormann/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/philippd1">
-    <img src="https://img.shields.io/badge/gitlab-philippd1-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" />
+  <a href="https://gitlab.com/philippdormann">
+    <img src="https://img.shields.io/badge/gitlab-philippdormann-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" />
   </a>&nbsp;&nbsp;
  
 </p>
 
-![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philippd1&hide_border=true)
+![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philippdormann&hide_border=true)
