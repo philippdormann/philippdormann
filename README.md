@@ -1,25 +1,25 @@
 <h1 align='center'>
-  Hi there 👋 I'm Philipp 💻
+Hi there 👋 I'm Philipp 💻
 </h1>
 
-<p align='center'>
-  CEO, founder and brand owner of <a href="https://konfiapp.de/?utm_source=github&utm_medium=profilereadme&utm_campaign=github_profilereadme" target="_blank">@KonfiApp</a>.<br>Passionate open source developer whenever I have some spare time
-</p>
+### 💁‍♂️ About Me
 
-<p align='center'>
-  <a href="https://linkedin.com/in/philipp-dormann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://gitlab.com/philippdormann">&nbsp;&nbsp;<img src="https://img.shields.io/badge/gitlab-philippdormann-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" /></a>&nbsp;&nbsp;
-</p>
+I'm the CEO, founder and brand owner of [@KonfiApp](https://konfiapp.de).
 
-<h3 align="center">Support my work</h3>
-<p align='center'>
-  <a href="https://paypal.me/philippdormann"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" /></a>&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/philippdormann"><img src="https://img.shields.io/badge/buymeacoffee-donate-yellow.svg" /></a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/V7V4I6I8"><img src="https://badgen.net/badge/ko-fi/donate/yellow" /></a>&nbsp;&nbsp;
-</p>
+Also Co-Founder [@ODIT.Services](https://odit.services) - a software agency focusing on cutting-edge technologies in webdevelopment.
 
-<h3 align="center">Stats ↗</h3>
-<p align='center'>
-<div align="center" style="width:100%">
-  <div align="center" style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philippdormann&show_icons=true&locale=en&layout=compact" alt="philippdormann" /></div>
-  <div align="center" style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=philippdormann&show_icons=true&locale=en" alt="philippdormann" /></div>
-</div>
+As a independent software developer and consultant I strive for user privacy and application performance.
+I enjoy open source development and try to give back to the community whenever I have some spare time.
+
+### 🤝 My socials
+<a href="https://linkedin.com/in/philipp-dormann/"><img src="https://img.shields.io/badge/linkedin-philipp--dormann-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://gitlab.com/philippdormann">&nbsp;&nbsp;<img src="https://img.shields.io/badge/gitlab-philippdormann-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" /></a>&nbsp;&nbsp;<a href="https://twitter.com/philipp_dormann">&nbsp;&nbsp;<img src="https://img.shields.io/badge/twitter-philipp__dormann-blue.svg?logo=twitter&style=for-the-badge" /></a>&nbsp;&nbsp;
+
+### 🤲 Support my work
+<a href="https://paypal.me/philippdormann"><img src="https://img.shields.io/badge/💰paypal-donate-yellow.svg?style=for-the-badge" /></a>&nbsp;&nbsp;<a href="https://buymeacoffee.com/philippdormann"><img src="https://img.shields.io/badge/☕buymeacoffee-donate-yellow.svg?style=for-the-badge" /></a>&nbsp;&nbsp;<a href="https://ko-fi.com/V7V4I6I8"><img src="https://img.shields.io/badge/☕ko--fi-donate-yellow.svg?style=for-the-badge" /></a>&nbsp;&nbsp;
+
+### 🏆 Support my work - "the 2021 way"
+- ETH: `0x5Eca6F9877320a62580a2266297199A9080ea252`
+- BTC: `bc1qjp3lh9ey2na98cpw0aplzdjjf4a7wpfel30mntgzlzav6300jkqqjl2g7p`
+
+### 📊 See my weekly wakapi stats (🧪 experimental)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=philippdormann&api_domain=wakapi.philippdormann.de&bg_color=2D3748&title_color=fafafa&icon_color=2F855A&text_color=ffffff&custom_title=My%20Stats%20🚀&layout=compact)
