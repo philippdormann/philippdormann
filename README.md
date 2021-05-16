@@ -20,6 +20,7 @@ I enjoy open source development and try to give back to the community whenever I
 ### 🏆 Support my work - "the 2021 way"
 - ETH: `0x5Eca6F9877320a62580a2266297199A9080ea252`
 - BTC: `bc1qjp3lh9ey2na98cpw0aplzdjjf4a7wpfel30mntgzlzav6300jkqqjl2g7p`
+- IOTA: `iota1qr2r9qyw36cg7ckhac35fkwrxfxurrmcm05xmzfms0zjg9lfvn8wkktfuga`
 
 ### 📊 See my weekly wakapi stats (🧪 experimental)
 ![stats](https://github-readme-stats.vercel.app/api/wakatime?username=philippdormann&api_domain=wakapi.philippdormann.de&bg_color=2D3748&title_color=fafafa&icon_color=2F855A&text_color=ffffff&custom_title=My%20Stats%20🚀&layout=compact)
