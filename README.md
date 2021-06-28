@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hi there 👋 I'm Philipp 💻
+Hi there 👋 I'm Philipp
 </h1>
 
 ### 💁‍♂️ About Me
@@ -11,7 +11,7 @@ Also Co-Founder [@ODIT.Services](https://odit.services) - a software agency focu
 As a independent software developer and consultant I strive for user privacy and application performance.
 I enjoy open source development and try to give back to the community whenever I have some spare time.
 
-### 🤝 My socials
+### 🤝 Socials
 <a href="https://linkedin.com/in/philipp-dormann/"><img src="https://img.shields.io/badge/linkedin-philipp--dormann-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://gitlab.com/philippdormann">&nbsp;&nbsp;<img src="https://img.shields.io/badge/gitlab-philippdormann-orange.svg?logo=gitlab&style=for-the-badge&color=FCA121" /></a>&nbsp;&nbsp;<a href="https://twitter.com/philipp_dormann">&nbsp;&nbsp;<img src="https://img.shields.io/badge/twitter-philipp__dormann-blue.svg?logo=twitter&style=for-the-badge" /></a>&nbsp;&nbsp;
 
 ### 🤲 Support my work
@@ -22,5 +22,5 @@ I enjoy open source development and try to give back to the community whenever I
 - BTC: `bc1qjp3lh9ey2na98cpw0aplzdjjf4a7wpfel30mntgzlzav6300jkqqjl2g7p`
 - IOTA: `iota1qr2r9qyw36cg7ckhac35fkwrxfxurrmcm05xmzfms0zjg9lfvn8wkktfuga`
 
-### 📊 See my weekly wakapi stats (🧪 experimental)
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=philippdormann&api_domain=wakapi.philippdormann.de&bg_color=2D3748&title_color=fafafa&icon_color=2F855A&text_color=ffffff&custom_title=My%20Stats%20🚀&layout=compact)
+### 📊 Weekly [Wakapi Stats](https://github.com/muety/wakapi)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=philippdormann&api_domain=wakapi.philippdormann.de&bg_color=0D1117&title_color=fafafa&icon_color=2F855A&text_color=ffffff&custom_title=My%20Stats%20🚀&layout=compact)
